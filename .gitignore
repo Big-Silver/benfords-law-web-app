@@ -1,0 +1,4 @@
+__pycache__/
+uploads/
+static/
+.DS_Store
